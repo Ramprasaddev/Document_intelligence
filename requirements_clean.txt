@@ -1,0 +1,13 @@
+streamlit>=1.57
+python-dotenv>=1.0
+openai>=1.68
+langchain>=0.3
+langchain-community>=0.3
+langchain-text-splitters>=0.3
+chromadb>=0.5
+sentence-transformers>=3.0
+pypdf>=5.0
+docx2txt>=0.8
+unstructured>=0.16
+python-pptx>=1.0
+google-genai>=1.0
