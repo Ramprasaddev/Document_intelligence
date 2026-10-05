@@ -1,4 +1,4 @@
-# 📄 DocuChat — Multi-Model RAG Document Assistant
+# 📄 DocuIntelligence — Multi-Model RAG Document Assistant
 
 > A Streamlit-based Retrieval-Augmented Generation (RAG) application that lets users upload documents, automatically index them, ask questions grounded in the uploaded content, and switch between multiple LLM providers without changing the retrieval pipeline.
 
