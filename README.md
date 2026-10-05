@@ -940,19 +940,8 @@ Because the two layers are independent, the LLM provider can be changed without 
 
 ---
 
-# 📄 License
 
-Add the license that matches your intended use before publishing the repository.
 
-For example:
-
-```text
-MIT License
-```
-
-if you decide to release the project under MIT.
-
----
 
 # 👨‍💻 Author
 
